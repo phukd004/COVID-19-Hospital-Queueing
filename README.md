@@ -1,6 +1,6 @@
-# COVID-19-HOSPITAL-QUEUEING
+# COVID 19 HOSPITAL QUEUEING
 
-COVID-19-HOSPITAL-QUEUEING is a C++ program for queueing in hospital
+COVID 19 HOSPITAL QUEUEING is a C++ program for queueing in hospital
 
 # Feature 
 
